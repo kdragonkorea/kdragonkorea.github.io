@@ -1229,6 +1229,28 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   }
 }
 
+/* 강용 만듬 */
+.item-slick11 {
+  height: calc(100vh - 40px);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.rs1-slick11 .item-slick11 {
+  height: calc(100vh - 84px);
+}
+
+.rs2-slick11 .item-slick11 {
+  height: 100vh;
+}
+
+@media (max-width: 991px) {
+  .item-slick11 {
+    height: calc(40vh - 70px) !important;
+  }
+}
+
 .arrow-slick1 {
   display: -webkit-box;
   display: -webkit-flex;

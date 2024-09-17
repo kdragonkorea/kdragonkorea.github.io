@@ -553,7 +553,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 .wrap-search-header {
   width: 960px;
   max-width: 100%;
-  height: 120px;
+  height: 420px;
   border: 2px solid #e6e6e6;
   background: #fff;
 }
@@ -605,7 +605,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   }
 
   .wrap-search-header {
-    height: 80px;
+    height: 400px;
   }
 }
 
@@ -2157,6 +2157,8 @@ input.num-product::-webkit-inner-spin-button {
 .cl10 {color: #1d1d1d;}
 .cl11 {color: #f9ba48;}
 .cl12 {color: #ccc;}
+.cl13 {color: #F74879;}
+
 
 /*//////////////////////////////////////////////////////////////////
 [ S-Text 0 - 15 ]*/
@@ -2670,7 +2672,7 @@ input.num-product::-webkit-inner-spin-button {
 .bg6 {background-color: #f2f2f2;}
 .bg7 {background-color: #333;}
 .bg8 {background-color: #f3f3f3;}
-.bg9 {background-color: rgba(255,255,255,0.9);}
+.bg9 {background-color: rgba(255,255,255,0.9);} 
 
 /*---------------------------------------------*/
 .bg-overlay1::before {
